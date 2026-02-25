@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0.practice/0.practice.iml" filepath="$PROJECT_DIR$/0.practice/0.practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Student-datatypes/5.Student-datatypes.iml" filepath="$PROJECT_DIR$/5.Student-datatypes/5.Student-datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Temperature conversion/6.Temperature conversion.iml" filepath="$PROJECT_DIR$/6.Temperature conversion/6.Temperature conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.AreaOfCircle/AreaOfCircle.iml" filepath="$PROJECT_DIR$/3.AreaOfCircle/AreaOfCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOPS/Attributes and methods/Attributes and methods.iml" filepath="$PROJECT_DIR$/../OOPS/Attributes and methods/Attributes and methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Calculator/Calculator.iml" filepath="$PROJECT_DIR$/2.Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/My programs.iml" filepath="$PROJECT_DIR$/.idea/My programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.SquareOfSeries and Sum/SquareOfSeries.iml" filepath="$PROJECT_DIR$/4.SquareOfSeries and Sum/SquareOfSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.start/start.iml" filepath="$PROJECT_DIR$/1.start/start.iml" />
+    </modules>
+  </component>
+</project>
