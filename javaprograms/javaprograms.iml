@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/First/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PracticeProblems/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Arrays/src/com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataLossUnaryOperator/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
