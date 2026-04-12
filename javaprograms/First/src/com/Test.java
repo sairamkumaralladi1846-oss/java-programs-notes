@@ -1,5 +1,7 @@
 package com;
 import com.flm.Test2;
+import com.Rectangle;
+
 //import com.*;
 import com.flm.Test3;
 
@@ -15,6 +17,11 @@ public class Test {
         Test2.connectToDB();
         Test3.order();
         Test4.addingToCart();
+        
+        Rectangle rect = new Rectangle(20, 30);
+        System.out.println(rect.getWidth());
+        rect.calArea();
+        rect.sayHello("SaiMadhu");
     }
     static void sum(){
         System.out.println(1+2);
